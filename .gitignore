@@ -1,0 +1,10 @@
+*.idea/*
+# PyCharm/IntelliJ IDEA files
+.idea/
+*.iml
+*.xml
+
+# Specific files you want to ignore
+python_fundamentals/pyfi_python_fundamental/.gitignore
+python_fundamentals/pyfi_python_fundamental/.idea/misc.xml
+python_fundamentals/pyfi_python_fundamental/.idea/pyfi_python_fundamental.iml
