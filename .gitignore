@@ -1,8 +1,71 @@
-*.idea/*
 # PyCharm/IntelliJ IDEA files
+*.idea/*
 .idea/
 *.iml
+*.ipr
+*.iws
 *.xml
+.idea_modules/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pip & Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+DISTRIBUTION.md
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pip & virtualenv
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# conda
+conda/
+.conda/
+conda-meta/
+
+# uv
+.uv/
 
 # Specific files you want to ignore
 python_fundamentals/pyfi_python_fundamental/.gitignore
