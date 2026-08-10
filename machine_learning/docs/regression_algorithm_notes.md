@@ -1,7 +1,7 @@
 # What are Regression Algorithms
 
 * Regression Algorithms estimate things
-* Each estimate in a regression alorithm is based on certain characteristics, for example:
+* Each estimate in a regression algorithm is based on certain characteristics, for example:
   * A stock's current price
   * Target price
   * beta
