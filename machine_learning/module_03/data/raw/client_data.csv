@@ -1,0 +1,9 @@
+company,sector,sp_score,market_cap,total_debt,ltm_capex,ltm_ebitda,ltm_fcf,ltm_revenue,debt_due_12mo
+Atlas Materials Corp,Industrials,3,18400.0,6200,-720,1480.0,540,9850.0,1150
+Beacon Health Systems,Healthcare,6,72300.0,14800,-1150,5420.0,3180,24600.0,2400
+Cascade Energy Partners,Energy,2,11750.0,9340,-2480,1180.0,-610,7120.0,3900
+Delta Retail Group,Consumer Discretionary,1,5900.0,4780,-430,610.0,95,12400.0,1850
+Everline Semiconductor,Technology,8,218000.0,28500,-3650,14900.0,9420,41300.0,4200
+Foxglove Pharma,Biotech,0,6840.0,320,-85,-520.0,-710,640.0,60
+Granite Logistics Inc,Transportation,4,31200.0,8900,-1020,2940.0,1510,15700.0,2100
+Harborline Utilities,Utilities,5,44600.0,22400,-3140,3880.0,420,11200.0,5600
